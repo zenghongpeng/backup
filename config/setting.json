@@ -1,0 +1,33 @@
+{
+  "config": {
+    "branch": "master",
+    "cname": "",
+    "domain": "https://zenghongpeng.github.io/ruban.github.io",
+    "email": "635938292@qq.com",
+    "password": "",
+    "platform": "github",
+    "port": "22",
+    "privateKey": "",
+    "remotePath": "",
+    "repository": "ruban.github.io",
+    "server": "",
+    "token": "6ae2a9970bdd136b9d39f81147f99e32173f54d7",
+    "tokenUsername": "",
+    "username": "zenghongpeng"
+  },
+  "comment": {
+    "commentPlatform": "gitalk",
+    "disqusSetting": {
+      "api": "",
+      "apikey": "",
+      "shortname": ""
+    },
+    "gitalkSetting": {
+      "clientId": "",
+      "clientSecret": "",
+      "owner": "",
+      "repository": ""
+    },
+    "showComment": false
+  }
+}

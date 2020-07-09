@@ -1,0 +1,8 @@
+.DS_Store
+.vscode
+output
+themes
+static
+images
+favicon.ico
+post-images
