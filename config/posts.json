@@ -1,7 +1,7 @@
 {
   "posts": [
     {
-      "content": "\nHexo",
+      "content": "\n今天我们来看看Hexo是什么东西！！\n\n## 什么是Hexo\n官方说Hexo是一个快速、简洁且高效的博客框架，使用Markdown引擎解析文章，几秒内就可以生成一个静态网站。\n\nOK，官方都这么说了，那咱试试。\n\n## 安装\n\n安装Hexo前提要安装好`Node.js`、`Git`，需要安装的同学请参考各官方的或者在百度上搜索哈，我想既然想用Hexo搭建网站，这些知识还是必要的。\n\n假设这些大家都有了，那咱么继续。\n\n```shell\n$ npm install -g hexo-cli\n$ npm install hexo\n```\n\n\n\n\n",
       "data": {
         "title": "静态博客生成器 - Hexo",
         "date": "2020-07-09 18:45:01",
